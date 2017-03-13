@@ -1,0 +1,2 @@
+# templates
+Mass Template Storage.
